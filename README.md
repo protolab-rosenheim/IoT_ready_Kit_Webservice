@@ -1,6 +1,9 @@
 # IoT Ready Kit Webservice #
 
-
+## Contributors
+- [Martin Neumayer](https://github.com/orgs/protolab-rosenheim/people/swifmaneum)
+- [Josef Baudisch](https://github.com/orgs/protolab-rosenheim/people/joe-baudisch)
+- [Michael List](https://github.com/orgs/protolab-rosenheim/people/Michael-List)
 
 ## Setup Postgres Docker Container ##
     docker volume create postgres_data
